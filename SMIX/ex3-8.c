@@ -8,4 +8,5 @@ int main() {
 	printf("10 °öÇÑ ¼ö : %d\n", d * 10);
 	printf("10 ³ª´« ¼ö : %d\n", d / 10);
 
+	return 0;
 }
