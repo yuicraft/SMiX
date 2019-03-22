@@ -1,12 +1,13 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main() {
-	int d;
-	printf("¼ö¸¦ ÀÔ·Â :");
-	scanf("%d", &d);
+    int d;
 
-	printf("10 °öÇÑ ¼ö : %d\n", d * 10);
-	printf("10 ³ª´« ¼ö : %d\n", d / 10);
+    printf("ìˆ˜ë¥¼ ìž…ë ¥: ");
+    scanf("%d", &d);
 
-	return 0;
+    printf("10 ê³±í•œ ìˆ˜: %d\n", d * 10);
+    printf("10 ë‚˜ëˆˆ ìˆ˜: %d\n", d / 10);
+
+    return 0;
 }
