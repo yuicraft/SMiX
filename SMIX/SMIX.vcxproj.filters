@@ -21,5 +21,14 @@
     <ClCompile Include="ex3-9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ex3-10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex3-11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex3-12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

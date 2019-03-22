@@ -2,10 +2,10 @@
 
 int main() {
 	int num;
-	
+
 	printf("熱蒂 殮溘 : ");
 	scanf("%d", &num);
-	
-	printf("%s", (num > 0) ? "曄熱" : "擠熱");
+
+	printf("%s", (num % 2) ? "�汝�" : "礎熱");
 	return 0;
 }
